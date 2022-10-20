@@ -1,0 +1,31 @@
+nav{
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+    background-color: #15064186;
+    color: white;
+    
+}
+a{
+    color: white;
+    text-align: left;
+}
+body{
+    background-color: #E9ECEF ;
+}
+.banner{
+    background-image: url(https://wallpaperaccess.com/full/640992.jpg);
+    padding: 20%;
+    
+}
+h1{
+    color: white;
+    text-align: left;
+}
+i{
+    color:white;
+    text-align: left;
+}
+    
+
+   
